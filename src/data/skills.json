@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Advanced Java",
+    "imageSrc": "../../assets/skills/java.png"
+  },
+  {
+    "title": "Spring boot",
+    "imageSrc": "../../assets/skills/springboot.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "../../assets/skills/aws.png"
+  },
+  {
+    "title": "APIGEE",
+    "imageSrc": "../../assets/skills/apigee.png"
+  },
+  {
+    "title": "webMethods",
+    "imageSrc": "../../assets/skills/webmethods.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "../../assets/skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "../../assets/skills/node.png"
+  },
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "../../assets/skills/mongodb.png"
+  },
+  {
+    "title": "Oracle",
+    "imageSrc": "../../assets/skills/sql.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "../../assets/skills/html.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "../../assets/skills/jenkins.png"
+  },
+  {
+    "title": "EDI",
+    "imageSrc": "../../assets/skills/edi.png"
+  },
+  {
+    "title": "Shell",
+    "imageSrc": "../../assets/skills/shell.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../../assets/skills/css.png"
+  }
+]

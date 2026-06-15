@@ -1,0 +1,18 @@
+[
+  {
+    "title": "My Portfolio",
+    "imageSrc": "../../assets/projects/project.png",
+    "description": "This is my project on portfolio about myself",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kprasathkk/portfolio"
+  },
+  {
+    "title": "BigQuery Release Pulse",
+    "imageSrc": "../../assets/projects/project.png",
+    "description": "BigQuery Release Pulse is a dashboard for Google Cloud BigQuery",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kprasathkk/kprasath-event-talks-app"
+  }
+]

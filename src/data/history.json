@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Technology Architect",
+    "organisation": "Cognizant",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Migration of legacy Java-based applications to AWS ECS, modernizing the application architecture and improving scalability, reliability, and operational efficiency.","Designed and implemented cloud-native batch processing solutions using AWS Lambda, Step Functions, EventBridge, ECS, and S3 to automate and orchestrate business workflows","Developed and supported multiple batch processes for print fulfillment, document delivery, and electronic communications (eCommunications), ensuring timely and accurate processing of high-volume transactions."],
+    "imageSrc": "../../assets/history/cognizant.png"
+  },
+  {
+    "role": "Technology Lead",
+    "organisation": "Cognizant",
+    "startDate": "July, 2016",
+    "endDate": "Aug, 2022",
+    "experiences": ["Contributed to the successful GIFT platform launch for Prudential Financial by designing and developing reusable framework services, improving integration consistency and accelerating project delivery.", "Designed and implemented complex XSLT transformations to map XML messages to ACORD-compliant formats, enabling seamless data exchange between enterprise and insurance industry systems."],
+    "imageSrc": "../../assets/history/cognizant.png"
+  },
+  {
+    "role": "Associate",
+    "organisation": "Cognizant",
+    "startDate": "Feb, 2013",
+    "endDate": "June, 2016",
+    "experiences": ["Led the migration of the webMethods platform from version 7.x to 9.x, including the underlying operating system migration from Unix to Linux, for 7-Eleven, ensuring minimal disruption to business operations.", "Designed, developed, and supported EDI integrations, with a focus on Invoice (810) and Remittance Advice (820) transactions, enabling efficient electronic data exchange with trading partners."],
+    "imageSrc": "../../assets/history/cognizant.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Infosys",
+    "startDate": "Jun, 2010",
+    "endDate": "Feb, 2013",
+    "experiences": [
+      "Worked on integration solutions for Apple as a webMethods Integration Developer, designing and developing flow services to enable seamless system-to-system communication.",
+      "Developed and maintained file-based integrations, B2B interfaces, and enterprise application integrations using the webMethods platform",
+      "Implemented and supported secure credit card encryption and data protection solutions, ensuring compliance with security and data privacy requirements"
+    ],
+    "imageSrc": "../../assets/history/infosys.png"
+  }
+]
